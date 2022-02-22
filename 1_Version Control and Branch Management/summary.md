@@ -26,13 +26,49 @@ Branch merupakan salinan dari repositori. Kita bisa menggunakan branch ketika ak
 
 ## Task
 
-## 1.Membuat Repositori Baru
+## 1. Membuat Repositori Baru
 Pada task ini, kita akan membuat repositori  baru yang nanti akan digunakan untuk mengumpulkan semua tugas dari Alterra Academy.
 ![New](./screenshots/1_NewRepository.jpg)
 
 <br>
 
-## 2.Implementasi Branch 
+## 2. Implementasi Branch Master, Development, featureA, featureB
 
+Branch master tidak perlu kita buat karna sudah dibuatkan dari github. Pada branch master saya menambahkan folder praktikum dan screenshot dan juga file summary.md
 
+![New](./screenshots/2_branchmaster.jpg)
 
+Selanjutnya kita membuat branch dengan nama development, featureA dan featureB
+
+![New](./screenshots/2_branchdevelopment,featureA,featureB.jpg)
+
+<br>
+
+## 3. Push, Pull, Stash, Merge
+Disini saya mencoba push branch yang telah dibuat sebelumnya
+![New](./screenshots/3_Push.jpg)
+
+Berikutnya saya melakukan perubahan pada program.java dan melakukan pull request
+
+![New](./screenshots/3_Pull.jpg)
+
+Berikutnya saya mencoba melakukan git stash. Fitur stash ini berperan untuk menyimpan semua progress yang sudah kita lakukan sejak commit terakhir tanpa membuat sebuah commit untuk state itu sendiri.
+
+![New](./screenshots/3_Stash.jpg)
+
+Berikutnya saya mencoba merge branch master dengan branch development. Merge Berfungsi untuk meleburkan dua state dari dua branch.
+
+![New](./screenshots/3_Merge.jpg)
+
+## 4 & 5 Merge Conflict No Fast Forward
+
+Jadi Merge Conflict terjadi jika terdapat perubahan pada line kode yang sama. Disini saya akan merge featureB dengan featureA 
+
+![New](./screenshots/4dan5_MergeConflictNoFastForward(1).jpg)
+
+Berikutnya pada text editor akan muncul perubahan seperti ini. Kita bisa memilih akan menggunakan yang mana
+
+![New](./screenshots/4dan5_MergeConflictNoFastForward(2).jpg)
+
+Setelah itu saya melakukan add dan commit ke repository
+![New](./screenshots/4dan5_MergeConflictNoFastForward(3).jpg)
