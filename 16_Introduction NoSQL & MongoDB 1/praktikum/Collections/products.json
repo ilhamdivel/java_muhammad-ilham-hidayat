@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62305c15b463859816b49c7a"
+  },
+  "id_product": 3,
+  "id_product_type": 2,
+  "id_operator": 1,
+  "code": "KPT",
+  "name": "Kartu Pascabayar Telkomsel",
+  "status": 200
+},{
+  "_id": {
+    "$oid": "62305c15b463859816b49c7b"
+  },
+  "id_product": 4,
+  "id_product_type": 2,
+  "id_operator": 1,
+  "code": "KPT2",
+  "name": "Kartu Pascabayar Telkomsel2",
+  "status": 200
+},{
+  "_id": {
+    "$oid": "62305c15b463859816b49c7c"
+  },
+  "id_product": 5,
+  "id_product_type": 2,
+  "id_operator": 1,
+  "code": "KPT3",
+  "name": "Kartu Pascabayar Telkomsel3",
+  "status": 200
+},{
+  "_id": {
+    "$oid": "62305c15b463859816b49c7d"
+  },
+  "id_product": 6,
+  "id_product_type": 3,
+  "id_operator": 4,
+  "code": "KPX",
+  "name": "Kartu Paket XL",
+  "status": 300
+},{
+  "_id": {
+    "$oid": "62305c15b463859816b49c7e"
+  },
+  "id_product": 7,
+  "id_product_type": 3,
+  "id_operator": 4,
+  "code": "KPX2",
+  "name": "Kartu Paket XL2",
+  "status": 300
+},{
+  "_id": {
+    "$oid": "62305c15b463859816b49c7f"
+  },
+  "id_product": 8,
+  "id_product_type": 3,
+  "id_operator": 4,
+  "code": "KPX3",
+  "name": "Kartu Paket XL3",
+  "status": 300
+}]

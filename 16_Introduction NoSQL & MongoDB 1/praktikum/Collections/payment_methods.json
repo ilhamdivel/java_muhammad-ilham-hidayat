@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "62304d14b463859816b49c6e"
+  },
+  "id_payment": 1,
+  "name": "Dana",
+  "status": 100
+},{
+  "_id": {
+    "$oid": "62304d14b463859816b49c6f"
+  },
+  "id_payment": 2,
+  "name": "Gopay",
+  "status": 200
+},{
+  "_id": {
+    "$oid": "62304d14b463859816b49c70"
+  },
+  "id_payment": 3,
+  "name": "OVO",
+  "status": 300
+},{
+  "_id": {
+    "$oid": "62304d14b463859816b49c71"
+  },
+  "timestamps": true
+}]

@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "62306323b463859816b49c97"
+  },
+  "id_transaction": 1,
+  "id_product": 1,
+  "status": "Lunas",
+  "qty": 3,
+  "price": 10000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49c98"
+  },
+  "id_transaction": 1,
+  "id_product": 2,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49c99"
+  },
+  "id_transaction": 1,
+  "id_product": 3,
+  "status": "Lunas",
+  "qty": 5,
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49c9a"
+  },
+  "id_transaction": 2,
+  "id_product": 4,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 40000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49c9b"
+  },
+  "id_transaction": 2,
+  "id_product": 5,
+  "status": "Lunas",
+  "qty": 4,
+  "price": 50000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49c9c"
+  },
+  "id_transaction": 2,
+  "id_product": 6,
+  "status": "Lunas",
+  "qty": 3,
+  "price": 40000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49c9d"
+  },
+  "id_transaction": 3,
+  "id_product": 7,
+  "status": "Lunas",
+  "qty": 2,
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49c9e"
+  },
+  "id_transaction": 3,
+  "id_product": 2,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49c9f"
+  },
+  "id_transaction": 3,
+  "id_product": 3,
+  "status": "Lunas",
+  "qty": 5,
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca0"
+  },
+  "id_transaction": 4,
+  "id_product": 4,
+  "status": "Lunas",
+  "qty": 6,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca1"
+  },
+  "id_transaction": 4,
+  "id_product": 5,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 10000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca2"
+  },
+  "id_transaction": 4,
+  "id_product": 2,
+  "status": "Lunas",
+  "qty": 10,
+  "price": 40000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca3"
+  },
+  "id_transaction": 5,
+  "id_product": 3,
+  "status": "Lunas",
+  "qty": 12,
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca4"
+  },
+  "id_transaction": 5,
+  "id_product": 4,
+  "status": "Lunas",
+  "qty": 13,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca5"
+  },
+  "id_transaction": 5,
+  "id_product": 7,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 10000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca6"
+  },
+  "id_transaction": 6,
+  "id_product": 3,
+  "status": "Lunas",
+  "qty": 14,
+  "price": 50000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca7"
+  },
+  "id_transaction": 6,
+  "id_product": 2,
+  "status": "Lunas",
+  "qty": 5,
+  "price": 60000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca8"
+  },
+  "id_transaction": 6,
+  "id_product": 1,
+  "status": "Lunas",
+  "qty": 7,
+  "price": 70000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49ca9"
+  },
+  "id_transaction": 7,
+  "id_product": 3,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 40000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49caa"
+  },
+  "id_transaction": 7,
+  "id_product": 2,
+  "status": "Lunas",
+  "qty": 22,
+  "price": 40000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cab"
+  },
+  "id_transaction": 7,
+  "id_product": 1,
+  "status": "Lunas",
+  "qty": 12,
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cac"
+  },
+  "id_transaction": 8,
+  "id_product": 1,
+  "status": "Lunas",
+  "qty": 13,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cad"
+  },
+  "id_transaction": 8,
+  "id_product": 2,
+  "status": "Lunas",
+  "qty": 14,
+  "price": 10000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cae"
+  },
+  "id_transaction": 8,
+  "id_product": 3,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 70000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49caf"
+  },
+  "id_transaction": 9,
+  "id_product": 7,
+  "status": "Lunas",
+  "qty": 2,
+  "price": 60000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb0"
+  },
+  "id_transaction": 9,
+  "id_product": 5,
+  "status": "Lunas",
+  "qty": 3,
+  "price": 50000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb1"
+  },
+  "id_transaction": 9,
+  "id_product": 4,
+  "status": "Lunas",
+  "qty": 4,
+  "price": 40000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb2"
+  },
+  "id_transaction": 10,
+  "id_product": 3,
+  "status": "Lunas",
+  "qty": 5,
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb3"
+  },
+  "id_transaction": 10,
+  "id_product": 2,
+  "status": "Lunas",
+  "qty": 6,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb4"
+  },
+  "id_transaction": 10,
+  "id_product": 1,
+  "status": "Lunas",
+  "qty": 7,
+  "price": 10000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb5"
+  },
+  "id_transaction": 11,
+  "id_product": 1,
+  "status": "Lunas",
+  "qty": 8,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb6"
+  },
+  "id_transaction": 11,
+  "id_product": 2,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb7"
+  },
+  "id_transaction": 11,
+  "id_product": 3,
+  "status": "Lunas",
+  "qty": 5,
+  "price": 40000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb8"
+  },
+  "id_transaction": 12,
+  "id_product": 4,
+  "status": "Lunas",
+  "qty": 6,
+  "price": 50000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cb9"
+  },
+  "id_transaction": 12,
+  "id_product": 3,
+  "status": "Lunas",
+  "qty": 7,
+  "price": 60000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cba"
+  },
+  "id_transaction": 12,
+  "id_product": 2,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 70000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cbb"
+  },
+  "id_transaction": 13,
+  "id_product": 1,
+  "status": "Lunas",
+  "qty": 5,
+  "price": 10000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cbc"
+  },
+  "id_transaction": 13,
+  "id_product": 4,
+  "status": "Lunas",
+  "qty": 3,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cbd"
+  },
+  "id_transaction": 13,
+  "id_product": 5,
+  "status": "Lunas",
+  "qty": 2,
+  "price": 30000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cbe"
+  },
+  "id_transaction": 14,
+  "id_product": 6,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 40000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cbf"
+  },
+  "id_transaction": 14,
+  "id_product": 7,
+  "status": "Lunas",
+  "qty": 8,
+  "price": 50000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cc0"
+  },
+  "id_transaction": 14,
+  "id_product": 6,
+  "status": "Lunas",
+  "qty": 9,
+  "price": 60000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cc1"
+  },
+  "id_transaction": 15,
+  "id_product": 4,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cc2"
+  },
+  "id_transaction": 15,
+  "id_product": 3,
+  "status": "Lunas",
+  "qty": 5,
+  "price": 20000
+},{
+  "_id": {
+    "$oid": "62306323b463859816b49cc3"
+  },
+  "id_transaction": 15,
+  "id_product": 1,
+  "status": "Belum Lunas",
+  "qty": 5,
+  "price": 30000
+}]

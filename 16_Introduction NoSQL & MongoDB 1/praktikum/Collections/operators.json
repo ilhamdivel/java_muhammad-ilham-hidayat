@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "623048d1b463859816b49c64"
+  },
+  "id_operator": 1,
+  "name": "Telkomsel"
+},{
+  "_id": {
+    "$oid": "623048d1b463859816b49c65"
+  },
+  "id_operator": 2,
+  "name": "Indosat"
+},{
+  "_id": {
+    "$oid": "623048d1b463859816b49c66"
+  },
+  "id_operator": 3,
+  "name": "Axis"
+},{
+  "_id": {
+    "$oid": "623048d1b463859816b49c67"
+  },
+  "id_operator": 4,
+  "name": "XL"
+},{
+  "_id": {
+    "$oid": "623048d1b463859816b49c68"
+  },
+  "id_operator": 5,
+  "name": "Smartfren"
+},{
+  "_id": {
+    "$oid": "623048d1b463859816b49c69"
+  },
+  "timestamps": true
+}]

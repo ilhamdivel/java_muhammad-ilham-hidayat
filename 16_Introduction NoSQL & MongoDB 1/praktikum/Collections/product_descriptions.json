@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "62305d5cb463859816b49c80"
+  },
+  "id_product_description": 1,
+  "description": "Ini Kartu Prabayar Axis"
+},{
+  "_id": {
+    "$oid": "62305d5cb463859816b49c81"
+  },
+  "id_product_description": 2,
+  "description": "Ini Kartu Prabayar Axis dua"
+},{
+  "_id": {
+    "$oid": "62305d5cb463859816b49c82"
+  },
+  "id_product_description": 3,
+  "description": "Ini Kartu Pascabayar Telkomsel"
+},{
+  "_id": {
+    "$oid": "62305d5cb463859816b49c83"
+  },
+  "id_product_description": 4,
+  "description": "Ini Kartu Pascabayar Telkomsel dua"
+},{
+  "_id": {
+    "$oid": "62305d5cb463859816b49c84"
+  },
+  "id_product_description": 5,
+  "description": "Ini Kartu Pascabayaa Telkomsel tiga"
+},{
+  "_id": {
+    "$oid": "62305d5cb463859816b49c85"
+  },
+  "id_product_description": 6,
+  "description": "Ini Kartu Paket XL"
+},{
+  "_id": {
+    "$oid": "62305d5cb463859816b49c86"
+  },
+  "id_product_description": 7,
+  "description": "Ini Kartu Paket XL dua"
+},{
+  "_id": {
+    "$oid": "62305d5cb463859816b49c87"
+  },
+  "id_product_description": 8,
+  "description": "Ini Kartu Paket XL tiga"
+}]

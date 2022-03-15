@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "62305efdb463859816b49c88"
+  },
+  "id_transaction": 1,
+  "id_user": 1,
+  "id_payment": 1,
+  "status": 100,
+  "total_qty": 10,
+  "total_price": 20000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c89"
+  },
+  "id_transaction": 2,
+  "id_user": 1,
+  "id_payment": 1,
+  "status": 200,
+  "total_qty": 20,
+  "total_price": 30000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c8a"
+  },
+  "id_transaction": 3,
+  "id_user": 1,
+  "id_payment": 1,
+  "status": 300,
+  "total_qty": 30,
+  "total_price": 40000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c8b"
+  },
+  "id_transaction": 4,
+  "id_user": 2,
+  "id_payment": 2,
+  "status": 100,
+  "total_qty": 40,
+  "total_price": 50000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c8c"
+  },
+  "id_transaction": 5,
+  "id_user": 2,
+  "id_payment": 2,
+  "status": 200,
+  "total_qty": 50,
+  "total_price": 60000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c8d"
+  },
+  "id_transaction": 6,
+  "id_user": 2,
+  "id_payment": 2,
+  "status": 300,
+  "total_qty": 60,
+  "total_price": 70000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c8e"
+  },
+  "id_transaction": 7,
+  "id_user": 3,
+  "id_payment": 3,
+  "status": 100,
+  "total_qty": 30,
+  "total_price": 30000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c8f"
+  },
+  "id_transaction": 8,
+  "id_user": 3,
+  "id_payment": 2,
+  "status": 200,
+  "total_qty": 40,
+  "total_price": 40000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c90"
+  },
+  "id_transaction": 9,
+  "id_user": 3,
+  "id_payment": 1,
+  "status": 300,
+  "total_qty": 50,
+  "total_price": 50000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c91"
+  },
+  "id_transaction": 10,
+  "id_user": 4,
+  "id_payment": 3,
+  "status": 100,
+  "total_qty": 60,
+  "total_price": 60000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c92"
+  },
+  "id_transaction": 11,
+  "id_user": 4,
+  "id_payment": 2,
+  "status": 100,
+  "total_qty": 40,
+  "total_price": 70000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c93"
+  },
+  "id_transaction": 12,
+  "id_user": 4,
+  "id_payment": 1,
+  "status": 100,
+  "total_qty": 30,
+  "total_price": 20000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c94"
+  },
+  "id_transaction": 13,
+  "id_user": 5,
+  "id_payment": 1,
+  "status": 100,
+  "total_qty": 20,
+  "total_price": 30000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c95"
+  },
+  "id_transaction": 14,
+  "id_user": 5,
+  "id_payment": 2,
+  "status": 100,
+  "total_qty": 10,
+  "total_price": 40000
+},{
+  "_id": {
+    "$oid": "62305efdb463859816b49c96"
+  },
+  "id_transaction": 15,
+  "id_user": 5,
+  "id_payment": 3,
+  "status": 100,
+  "total_qty": 20,
+  "total_price": 50000
+}]

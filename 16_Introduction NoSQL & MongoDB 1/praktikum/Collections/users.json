@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "62304f3cb463859816b49c72"
+  },
+  "id_user": 1,
+  "status": 100,
+  "name": "Ilham",
+  "dob": {
+    "$date": "1999-07-20T17:00:00Z"
+  },
+  "gender": "L"
+},{
+  "_id": {
+    "$oid": "62304f3cb463859816b49c73"
+  },
+  "id_user": 2,
+  "status": 100,
+  "name": "Felix",
+  "dob": {
+    "$date": "1999-06-24T17:00:00Z"
+  },
+  "gender": "L"
+},{
+  "_id": {
+    "$oid": "62304f3cb463859816b49c74"
+  },
+  "id_user": 3,
+  "status": 200,
+  "name": "Bakti",
+  "dob": {
+    "$date": "2000-08-20T17:00:00Z"
+  },
+  "gender": "L"
+},{
+  "_id": {
+    "$oid": "62304f3cb463859816b49c75"
+  },
+  "id_user": 4,
+  "status": 300,
+  "name": "Winter",
+  "dob": {
+    "$date": "1999-05-16T17:00:00Z"
+  },
+  "gender": "P"
+},{
+  "_id": {
+    "$oid": "62304f3cb463859816b49c76"
+  },
+  "id_user": 1,
+  "status": 100,
+  "name": "Karina",
+  "dob": {
+    "$date": "2000-07-21T17:00:00Z"
+  },
+  "gender": "P"
+},{
+  "_id": {
+    "$oid": "62304f3cb463859816b49c77"
+  },
+  "timestamps": true
+}]
