@@ -1,0 +1,84 @@
+[{
+  "_id": 1,
+  "title": "Wawasan Pancasila",
+  "authorID": 1,
+  "publisherID": 1,
+  "price": 71200,
+  "stats": {
+    "page": 324,
+    "weight": 300
+  },
+  "publisherAt": {
+    "$date": "2018-10-01T00:00:00Z"
+  },
+  "category": [
+    "social",
+    "politics"
+  ]
+},{
+  "_id": 2,
+  "title": "Mata Air Keteladanan",
+  "authorID": 1,
+  "publisherID": 2,
+  "price": 106250,
+  "stats": {
+    "page": 672,
+    "weight": 650
+  },
+  "publisherAt": {
+    "$date": "2017-09-01T00:00:00Z"
+  },
+  "category": [
+    "social",
+    "politics"
+  ]
+},{
+  "_id": 3,
+  "title": "Revolusi Pancasila",
+  "authorID": 1,
+  "publisherID": 1,
+  "price": 54400,
+  "stats": {
+    "page": 220,
+    "weight": 500
+  },
+  "publisherAt": {
+    "$date": "2015-05-01T00:00:00Z"
+  },
+  "category": [
+    "social",
+    "politics"
+  ]
+},{
+  "_id": 4,
+  "title": "Self Driving",
+  "authorID": 2,
+  "publisherID": 1,
+  "price": 58650,
+  "stats": {
+    "page": 286,
+    "weight": 300
+  },
+  "publisherAt": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "category": [
+    "self-development"
+  ]
+},{
+  "_id": 5,
+  "title": "Self Disruption",
+  "authorID": 2,
+  "publisherID": 2,
+  "price": 83300,
+  "stats": {
+    "page": 400,
+    "weight": 800
+  },
+  "publisherAt": {
+    "$date": "2018-05-01T00:00:00Z"
+  },
+  "category": [
+    "self-development"
+  ]
+}]
