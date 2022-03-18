@@ -1,0 +1,9 @@
+Connection to google: 
+PING forcesafesearch.google.com (216.239.38.120) 56(84) bytes of data.
+64 bytes from any-in-2678.1e100.net (216.239.38.120): icmp_seq=1 ttl=56 time=25.3 ms
+64 bytes from any-in-2678.1e100.net (216.239.38.120): icmp_seq=2 ttl=56 time=24.9 ms
+64 bytes from any-in-2678.1e100.net (216.239.38.120): icmp_seq=3 ttl=56 time=24.8 ms
+
+--- forcesafesearch.google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 24.790/24.993/25.288/0.213 ms
