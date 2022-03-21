@@ -1,0 +1,182 @@
+{
+	"info": {
+		"_postman_id": "240f1ab6-8e93-402c-bbfa-a9a3908cd2a8",
+		"name": "News Api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Apple",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://newsapi.org/v2/everything?q=Apple&from=2022-03-21&sortBy=popularity&apiKey=40c9ad9501d047329abc5437af9f5e91",
+					"protocol": "https",
+					"host": [
+						"newsapi",
+						"org"
+					],
+					"path": [
+						"v2",
+						"everything"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "Apple"
+						},
+						{
+							"key": "from",
+							"value": "2022-03-21"
+						},
+						{
+							"key": "sortBy",
+							"value": "popularity"
+						},
+						{
+							"key": "apiKey",
+							"value": "40c9ad9501d047329abc5437af9f5e91"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Tesla",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://newsapi.org/v2/everything?q=tesla&from=2022-02-21&sortBy=publishedAt&apiKey=40c9ad9501d047329abc5437af9f5e91",
+					"protocol": "https",
+					"host": [
+						"newsapi",
+						"org"
+					],
+					"path": [
+						"v2",
+						"everything"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "tesla"
+						},
+						{
+							"key": "from",
+							"value": "2022-02-21"
+						},
+						{
+							"key": "sortBy",
+							"value": "publishedAt"
+						},
+						{
+							"key": "apiKey",
+							"value": "40c9ad9501d047329abc5437af9f5e91"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Valorant",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://newsapi.org/v2/everything?q=Valorant&apiKey=40c9ad9501d047329abc5437af9f5e91",
+					"protocol": "https",
+					"host": [
+						"newsapi",
+						"org"
+					],
+					"path": [
+						"v2",
+						"everything"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "Valorant"
+						},
+						{
+							"key": "apiKey",
+							"value": "40c9ad9501d047329abc5437af9f5e91"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Lost Ark",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://newsapi.org/v2/everything?q=lost ark&apiKey=40c9ad9501d047329abc5437af9f5e91",
+					"protocol": "https",
+					"host": [
+						"newsapi",
+						"org"
+					],
+					"path": [
+						"v2",
+						"everything"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "lost ark"
+						},
+						{
+							"key": "apiKey",
+							"value": "40c9ad9501d047329abc5437af9f5e91"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Bitcoin",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://newsapi.org/v2/everything?q=bitcoins&apiKey=40c9ad9501d047329abc5437af9f5e91",
+					"protocol": "https",
+					"host": [
+						"newsapi",
+						"org"
+					],
+					"path": [
+						"v2",
+						"everything"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "bitcoins"
+						},
+						{
+							"key": "apiKey",
+							"value": "40c9ad9501d047329abc5437af9f5e91"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
