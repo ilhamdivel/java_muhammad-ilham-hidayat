@@ -46,9 +46,9 @@ Berikut output dari program CRUD diatas :
 
 ### Task 2
 
-Error
+Pada task kedua ini disuruh untuk menggunakan swagger, berikut tampilannya
 
-Masih dalam tahap perbaikan
+![output](./screenshots/swagger.jpg)
 
 
 
