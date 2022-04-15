@@ -11,7 +11,7 @@ on:
 
 defaults: 
   run:
-    working-directory: 38_CI CD with Microservices
+    working-directory: 38_CI CD with Microservices/praktikum
 
 jobs:
   build:
