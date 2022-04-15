@@ -1,5 +1,4 @@
 FROM openjdk:17-alpine
-ARG JAR_FILE=target/*.jar
-COPY ${JAR_FILE} app.jar
 EXPOSE 8000
-ENTRYPOINT ["java","-jar","/app.jar"]
+ADD target/springboot-images-new.jar springboot-images-new.jar
+ENTRYPOINT ["java","-jar","/springboot-images-new.jar"]
