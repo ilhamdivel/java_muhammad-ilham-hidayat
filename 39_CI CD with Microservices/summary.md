@@ -21,19 +21,19 @@ Automatic Deployment adalah sebuah teknik yang memungkin pengembang untuk mengir
 
 Pada Task kali ini saya akan mendeploy project spring boot saya ke aws, tetapi kali ini saya menggunakan akan menggunakan github actions.
 
-Saya telah membuat repository yang berisi project spring boot dan github workflownya, link repository ada di [Link](./praktikum/Link%20Repository.txt)
+Saya telah membuat repository yang berisi project spring boot dan github workflownya, link repository ada di [Link](./praktikum/Link.txt)
 
 Untuk melihat workflow dalam repository tersebut  ada di folder .github/workflows
 
-Berikut hasil akhirnya 
+Berikut hasil akhirnya
 
 Proses CI ( Test , Build ) dan CD ( Deploy ) success
 
-![output](./screenshots/github.jpg)
+![output](./screenshots/githubb.jpg)
 
 Project spring boot kita telah berhasil di deploy ke aws, kita bisa akses ip public lewat browser
 
-![output](./screenshots/browser.jpg)
+![output](./screenshots/browserr.jpg)
 
 
 
